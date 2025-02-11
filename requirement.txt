@@ -1,0 +1,38 @@
+--build a Platform for instructors
+--every instrcuctor can make his courses and sell it
+--upload recorded videos
+--live Streaming
+--quizes
+--student can join a plan for specific fields
+--student wallet for buying course
+--student can deposit using visa card or coupons
+--every constructor can create his own coupons
+--student page for courses that he is enrolled in
+--badges and prizes for students who achieve specific goals
+--each course has specific number of students
+--certificates when finish courses
+--send notifications(emails) for specific course subescribers
+--create learning path , set of arranged courses ,you can't register in without compeleteing the one before it
+--Students Feedbacks about courses
+
+
+--INSTRUCTORS
+    -Full Name
+    -Email
+    -Password
+    -phone
+    -IMAGE
+    -CV
+
+
+--List of all instructors
+    -IMAGE
+    -Procedures
+
+--Learning Page
+--Streaming Page integrated with other Platform Like(ZOOM,others)
+--add quiz
+--add course
+
+
+
